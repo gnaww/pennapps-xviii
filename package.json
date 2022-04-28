@@ -19,7 +19,7 @@
   "homepage": "https://github.com/wwang99/pennapps-xviii#readme",
   "dependencies": {
     "@google/maps": "^0.5.5",
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "body-parser": "^1.18.3",
     "cryptiles": "^4.1.2",
     "ejs": "^2.6.1",
